@@ -45,6 +45,7 @@ public class WeatherSubject {
     public void removeAll(){
         observers.clear();
         int i = 1;
+        int j = 1;
     }
 
     public void updateAllObserver(){
